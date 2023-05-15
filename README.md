@@ -9,14 +9,15 @@ My first repository
 2. *The Umbrella Academy*
 
 
-![image](https://github.com/ememfrrr/app-dev/assets/133613409/2c9a8d35-55b9-4161-8236-abc2b28352bf)
+![image](https://github.com/ememfrrr/app-dev/assets/133613409/2c9a8d35-55b9-4161-8236-abc2b28352bf)![image](https://github.com/ememfrrr/app-dev/assets/133613409/d94be9e3-fbd4-461e-a9e6-1a521088c05f)
+
 - Superheroes reunited by their father's death
 - Estranged siblings with extraordinary powers uncover shocking family secrets
 - Mystery of their father's death and the threat of an imminent apocalypse
 3. *Money Heist*
 
 
-![Uploading image.png…]()
+![image](https://github.com/ememfrrr/app-dev/assets/133613409/cae9814b-da78-4ab0-9dcc-d094d47f6756)
 - La casa de papel is a Spanish heist crime drama television series
 - Heists on the Royal Mint of Spain and the Bank of Spain
 - Tokyo is my favorite character
