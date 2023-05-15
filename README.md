@@ -8,9 +8,7 @@ My first repository
 - It is an excellent gangster drama full of rich, interesting and diverse characters
 2. *The Umbrella Academy*
 
-
-![image](https://github.com/ememfrrr/app-dev/assets/133613409/2c9a8d35-55b9-4161-8236-abc2b28352bf)![image](https://github.com/ememfrrr/app-dev/assets/133613409/d94be9e3-fbd4-461e-a9e6-1a521088c05f)
-
+![image](https://github.com/ememfrrr/app-dev/assets/133613409/d94be9e3-fbd4-461e-a9e6-1a521088c05f)
 - Superheroes reunited by their father's death
 - Estranged siblings with extraordinary powers uncover shocking family secrets
 - Mystery of their father's death and the threat of an imminent apocalypse
